@@ -1,0 +1,19 @@
+{
+    "1": {
+      "class" : "fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal",
+      "name" : "Designer"
+    },
+    "2": {
+        "class" : "fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal",
+        "name" : "ex@mail.com"
+    },
+    "3": {
+        "lan" : "fa fa-home fa-fw w3-margin-right w3-large w3-text-teal",
+        "name" : "Dhaka, Bangladesh"
+    },
+    "4": {
+        "lan" : "fa fa-home fa-fw w3-margin-right w3-large w3-text-teal",
+        "name" : "+8801730091198"
+    }
+  }
+  

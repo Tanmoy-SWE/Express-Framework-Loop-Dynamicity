@@ -1,0 +1,19 @@
+{
+    "1": {
+      "skill" : "Debating",
+      "percentage" : 50
+    },
+    "2": {
+      "skill" : "Sleeping",
+      "percentage" : 50
+    },
+    "3": {
+        "skill" : "Procrastinating",
+        "percentage" : 50
+    },
+    "4": {
+        "skill" : "Coding",
+        "percentage" : 50
+    }
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "1": {
+      "lan" : "Bangla",
+      "percentage" : 50
+    },
+    "2": {
+      "lan" : "English",
+      "percentage" : 50
+    },
+    "3": {
+        "lan" : "Arabic",
+        "percentage" : 50
+    }
+  }
+  
